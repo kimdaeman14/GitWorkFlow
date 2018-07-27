@@ -49,6 +49,7 @@ Except where otherwise noted, all content is licensed under a Creative Commons A
 Creative Commons Attribution 4.0 International License를 따른다.
 
 
+[Github](http://github.com/leechoong)를 참고하세요
 
 
 
@@ -57,7 +58,3 @@ Creative Commons Attribution 4.0 International License를 따른다.
 
 
 
-
-장점
-
-단점 오픈소스여야한다는것? 
