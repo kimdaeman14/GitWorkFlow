@@ -46,8 +46,8 @@ Forking Worflow는 다른 워크플로우와 근본적으로 다르다. 하나�
 Except where otherwise noted, all content is licensed under a [Creative Commons Attribution 2.5 Australia License.](https://creativecommons.org/licenses/by/2.5/au/)
 
 번역문의 라이선스
-[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/
-)를 따른다.
+[Creative Commons Attribution 4.0 International License.](https://creativecommons.org/licenses/by/4.0/
+)
 
 
 
